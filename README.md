@@ -2,7 +2,11 @@
 
 Deleting a line below for merge conflict.
 Adding a new line in a develop branch.
+<<<<<<< HEAD
 Silly line.
+=======
+Nothing.
+>>>>>>> develop
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
