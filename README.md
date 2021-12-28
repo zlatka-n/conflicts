@@ -4,6 +4,7 @@ Deleting a line below for merge conflict.
 Adding a new line in a develop branch.
 Silly line.
 Nothing.
+Three rebase.
 
 using rebase on experiment branch
 
