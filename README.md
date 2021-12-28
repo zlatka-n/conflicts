@@ -7,6 +7,7 @@ Nothing.
 
 using rebase on experiment branch
 checking commits when merging
+merging two
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
