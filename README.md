@@ -6,6 +6,7 @@ Silly line.
 Nothing.
 
 using rebase on experiment branch
+checking commits when merging
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
