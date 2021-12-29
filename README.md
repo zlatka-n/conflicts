@@ -1,14 +1,6 @@
 # Getting Started with Create React App
 
-Deleting a line below for merge conflict.
-Adding a new line in a develop branch.
-Silly line.
-Nothing.
-Three rebase.
-
-using rebase on experiment branch
-checking commits when merging
-merging two
+m1
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
