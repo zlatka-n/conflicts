@@ -6,11 +6,7 @@ m3
 
 f1
 f2
-<<<<<<< HEAD
-=======
-
 a1
->>>>>>> feature
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
